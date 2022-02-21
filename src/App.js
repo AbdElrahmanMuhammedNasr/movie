@@ -4,6 +4,7 @@ import { Footer } from './components/footer';
 import { Navbar } from './components/navbar';
 
 const App = () => {
+    // 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
     return (
         <div className='' style={{ height: '100%', backgroundColor: '#141414' }}>
             <Navbar />
